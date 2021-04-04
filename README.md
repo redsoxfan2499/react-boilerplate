@@ -15,7 +15,7 @@ inside here create file called index.html   and styles.css   and App.js file  al
 npm init -y 
 ```
 
-######next install Prettier  
+##### next install Prettier  
 ```javascript
 npm install -D prettier
 ```
